@@ -26,7 +26,7 @@
           <SSIS:Property SSIS:Name="CreatorComputerName">MWHQCCANDAYALT</SSIS:Property>
           <SSIS:Property SSIS:Name="Description">
           </SSIS:Property>
-          <SSIS:Property SSIS:Name="PasswordVerifier" SSIS:Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAnaYxTgl7nUGOD/ckSv4zSgAAAAACAAAAAAADZgAAwAAAABAAAABZdKp18vGlL53CcZdKs0XIAAAAAASAAACgAAAAEAAAAKE5/jwQ+rc4m87BhmHs4yyIAAAAp5vmO0xiyD3KlOXsjBWF7TAZqYxoKv4q/ITg8jPWBgDEHfudEPzDwR2Gr0Vc1nW28R62ZkDtocwYtsjyOQMRxpwfqrxPNScSfmnsqVIt/nHKxZ8D3gpvt+ZVpWQnx0jWWATi4YA+6i3hsf6jkcN6tcNgvA5R7QaGfp+GSQHkvXoOjxNNnu6TXBQAAADjAJ6PP25A1164f2AvooSF1stAvg==</SSIS:Property>
+          <SSIS:Property SSIS:Name="PasswordVerifier" SSIS:Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAnaYxTgl7nUGOD/ckSv4zSgAAAAACAAAAAAADZgAAwAAAABAAAAB6E0x0s+DoA1KDQADhfXorAAAAAASAAACgAAAAEAAAANVY0fp8cdBjoFIi+TkzIReIAAAAwvvcApvH1rVt3zQkATjOy0axDR07wWaOo9QSTUbIYMBLbDN4aYqrUHp+mgX+e05lT4sLv/Vz2WN+zMWlurmaNw8ZB0NUPHyxZfYJGQqF6BbYFgLDSJoAVxTCyhro5iRCPmRY1ZONuc0CiyOMwX5/CtKo1ji1vxPUa6G88jjzXJRBVgsmQw5cKRQAAAAKwRZX9kIUgAGDLIsUUsDZllwMVQ==</SSIS:Property>
           <SSIS:Property SSIS:Name="FormatVersion">1</SSIS:Property>
         </SSIS:Properties>
         <SSIS:Packages>
@@ -45,7 +45,7 @@
                 <SSIS:Property SSIS:Name="VersionBuild">0</SSIS:Property>
                 <SSIS:Property SSIS:Name="VersionComments">
                 </SSIS:Property>
-                <SSIS:Property SSIS:Name="VersionGUID">{7A75FA8A-0E96-4EEC-948C-ABDD6FFB447C}</SSIS:Property>
+                <SSIS:Property SSIS:Name="VersionGUID">{B044DC42-A4A7-47A9-8AC9-25EA072F3D06}</SSIS:Property>
                 <SSIS:Property SSIS:Name="PackageFormatVersion">8</SSIS:Property>
                 <SSIS:Property SSIS:Name="Description">
                 </SSIS:Property>
@@ -69,7 +69,7 @@
         <ConnectionProviderMappings />
         <ConnectionSecurityMappings />
         <DatabaseStorageLocations />
-        <TargetServerVersion>SQLServer2017</TargetServerVersion>
+        <TargetServerVersion>SQLServer2016</TargetServerVersion>
         <ParameterConfigurationValues />
       </Options>
     </Configuration>
